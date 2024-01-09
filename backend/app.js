@@ -7,7 +7,7 @@ const cors = require("cors");
 const path = require("path");
 
 app.use(cors({
-  origin: 'https://mern-e-commerce-atpm.vercel.app/',
+  origin: 'https://mern-e-commerce-atpm.vercel.app',
   credentials: true
 }));
 
