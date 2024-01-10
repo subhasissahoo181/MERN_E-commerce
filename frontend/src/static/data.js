@@ -229,13 +229,13 @@ export const navItems = [
       title: "Gifts",
       subTitle: "",
       image_Url:
-        "https://securecdn.pymnts.com/wp-content/uploads/2014/11/Gifts-Photo-700x489.jpg",
+        "https://5.imimg.com/data5/HC/EV/MY-15940038/diwali-gift-box.jpg",
     },
     {
       id: 7,
       title: "Pet Care",
       subTitle: "",
-      image_Url: "https://cdn.openpr.com/T/c/Tc15444071_g.jpg",
+      image_Url: "https://www.hayleysanimalhealth.lk/wp-content/uploads/2021/12/petcare_img1.png",
     },
     {
       id: 8,
